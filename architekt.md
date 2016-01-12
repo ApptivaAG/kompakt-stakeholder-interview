@@ -6,6 +6,7 @@ Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt
 <br /> 
 <br /> 
 <br />
+<br />
 ---
 
 ## Allgemeine Fragen
@@ -57,8 +58,6 @@ Wie regelmässig und in welcher Form möchten Sie involviert sein?
 Gibt es jemanden mit dem wir sprechen sollten, der nicht auf unserer Liste steht?
 <br /> 
 <br /> 
-<br />
-<br />
 ---
 
 ## Rollenspezifische Fragen

@@ -1,7 +1,7 @@
-#Architekten 
 Fragen für ein Stakeholder-Interview mit einem Architekten.
 
-## Demografische Daten
+#Architekten 
+
 Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt 
 <br /> 
 <br /> 
@@ -49,8 +49,6 @@ Gibt es Dinge die Ihnen Sorgen bereiten?
 Wie regelmässig und in welcher Form möchten Sie involviert sein? 
 <br /> 
 <br /> 
-<br />
-<br />
 ---
 
 ### Weitere Stakeholder 

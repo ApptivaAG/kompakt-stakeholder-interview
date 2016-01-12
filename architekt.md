@@ -9,7 +9,6 @@ Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt
 <br />
 ---
 
-## Allgemeine Fragen
 ### Auswirkungen 
 
 Welche konkreten Auswirkungen/Ergebnisse wollen wir mit dieser Lösung in drei Monaten erreichen? Welche in drei Jahren? 
@@ -58,7 +57,7 @@ Gibt es jemanden mit dem wir sprechen sollten, der nicht auf unserer Liste steht
 <br /> 
 ---
 
-## Rollenspezifische Fragen
+### Rollenspezifische Fragen
 
 Welche technische Entscheidungen wurden bereits getroffen? 
 <br /> 

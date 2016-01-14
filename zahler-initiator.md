@@ -31,6 +31,7 @@ Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist.
 <br />
 ---
 
+<div style="page-break-after: always;"></div>
 ### Bedürfnisse 
 
 Welches sind Ihre Bedürfnisse im Bezug auf diese Lösung? 
@@ -64,18 +65,21 @@ Warum wird diese Lösung entwickelt?
 <br /> 
 <br />
 <br />
----
-Was ist das Ziel dieser Lösung?
-<br /> 
-<br /> 
 <br />
 <br />
 ---
-Wann soll es erreicht werden? 
+Was ist das Ziel dieser Lösung? 
 <br /> 
 <br /> 
 <br />
 <br />
+<br />
+<br />
+---
+<div style="page-break-after: always;"></div>
+Wann soll dies erreicht werden? 
+<br /> 
+<br /> 
 ---
 Wurde bereits zuvor versucht dieses Ziel zu erreichen? Wie? Warum wurden die Ziele nicht erreicht?
 <br /> 

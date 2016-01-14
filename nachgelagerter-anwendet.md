@@ -35,6 +35,7 @@ Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist.
 <br />
 ---
 
+<div style="page-break-after: always;"></div>
 ### Bedürfnisse 
 
 Welches sind Ihre Bedürfnisse im Bezug auf diese Lösung? 
@@ -73,6 +74,8 @@ Wie erleben Sie _____ (z.B. den Einkauf, wenn es um eine Kasse geht) ?
 <br />
 <br />
 ---
+
+<div style="page-break-after: always;"></div>
 Wann haben Sie letztes Mal _____ erlebt? 
 <br /> 
 <br /> 

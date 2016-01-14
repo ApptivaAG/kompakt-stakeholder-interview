@@ -31,6 +31,7 @@ Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist.
 <br />
 ---
 
+<div style="page-break-after: always;"></div>
 ### Bedürfnisse 
 
 Welches sind Ihre Bedürfnisse im Bezug auf diese Lösung? 
@@ -77,7 +78,7 @@ Was würde passieren, wenn diese Tätigkeit/Arbeit eine Woche lang nicht mehr au
 <br />
 <br />
 ---
-
+<div style="page-break-after: always;"></div>
 ### Tätigkeiten 
 
 Welche Tätigkeiten werden in einer normalen Woche ausgeübt? 
@@ -113,7 +114,7 @@ Was stört Sie generell?
 <br />
 <br />
 ---
-
+<div style="page-break-after: always;"></div>
 ## Beobachtungen 
 ###### An der Wirkungsstätte es Anwenders 
 

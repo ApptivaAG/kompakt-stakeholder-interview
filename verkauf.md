@@ -31,6 +31,7 @@ Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist.
 <br />
 ---
 
+<div style="page-break-after: always;"></div>
 ### Bedürfnisse 
 
 Welches sind Ihre Bedürfnisse im Bezug auf diese Lösung? 
@@ -71,6 +72,7 @@ Warum kaufen Kunden eine Lösung wie diese?
 <br />
 <br />
 ---
+<div style="page-break-after: always;"></div>
 Warum kaufen sie diese Lösung und nicht bei der Konkurrenz?
 <br /> 
 <br /> 

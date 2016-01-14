@@ -63,21 +63,16 @@ Gibt es jemanden mit dem wir sprechen sollten, der nicht auf unserer Liste steht
 Aus welchem Grund wird diese Tätigkeit/Arbeit erledigt? 
 <br /> 
 <br /> 
-<br />
-<br />
 ---
 Wer profitiert von dieser? Welche Probleme löst diese? 
 <br /> 
 <br /> 
-<br />
-<br />
 ---
 Was würde passieren, wenn diese Tätigkeit/Arbeit eine Woche lang nicht mehr ausgeübt würde? 
 <br /> 
 <br /> 
-<br />
-<br />
 ---
+
 <div style="page-break-after: always;"></div>
 ### Tätigkeiten 
 
@@ -127,19 +122,16 @@ Ablauf der Tätigkeit
 <br /> 
 <br /> 
 <br />
-<br />
 ---
 Eingesetzte Werkzeuge 
 <br /> 
 <br /> 
 <br />
-<br />
 ---
 Zusammenarbeit mit anderen 
 <br /> 
 <br /> 
-<br />
-<br />
+<br /> 
 ---
 Regelmässig unterbrochen 
 <br /> 

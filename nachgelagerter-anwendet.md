@@ -76,8 +76,6 @@ Wie erleben Sie _____ (z.B. den Einkauf, wenn es um eine Kasse geht) ?
 Wann haben Sie letztes Mal _____ erlebt? 
 <br /> 
 <br /> 
-<br />
-<br />
 ---
 Was haben Sie unmittelbar davor gemacht? Was unmittelbar danach? 
 <br /> 

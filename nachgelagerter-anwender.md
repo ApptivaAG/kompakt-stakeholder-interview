@@ -1,7 +1,7 @@
 Fragen für ein Stakeholder-Interview mit einem nachgelagerten Anwender.
 
 Beispiel für einen nachgelagerten Anwender: 
-Der Anwender bedient ein Kasse, um den Einkauf des Kunden zu berechnen und der Buchhaltung zur Verfügung zu stellen. 
+Der Anwender bedient die Kasse, um den Einkauf des Kunden zu berechnen und der Buchhaltung zur Verfügung zu stellen. 
 Der Einkäufer und die Buchhaltung sin in dem Fall nachgelagerte Anwender.
 
 # Nachgelagerte Anwender 

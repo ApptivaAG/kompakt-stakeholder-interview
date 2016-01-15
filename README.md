@@ -1,7 +1,7 @@
 ### Apptiva kompakt
 #Stakeholder-Interviews
 
-Vorlagen für ein Stakeholder-Interviews. Siehe [Blogpost](http://apptiva.ch/stakeholder-interviews/).
+Vorlagen für Stakeholder-Interviews. Siehe [Blogpost](http://apptiva.ch/stakeholder-interviews/).
 
 | Markdown | PDF |
 -----------|-----|

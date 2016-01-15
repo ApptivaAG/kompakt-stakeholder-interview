@@ -23,7 +23,7 @@ Unter welchen Umständen würde diese Lösung als Erfolg gefeiert?
 <br />
 <br />
 ---
-Wenn sie einen Zauberstab hätten und damit tun könnten, was Sie heute nicht können, was wäre das? 
+Wenn Sie einen Zauberstab hätten und damit tun könnten, was Sie heute nicht können, was wäre das? 
 Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist. 
 <br /> 
 <br /> 

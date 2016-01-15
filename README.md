@@ -13,4 +13,4 @@ Vorlagen für Stakeholder-Interviews. Siehe [Blogpost](http://apptiva.ch/stakeho
 | [Betrieb](https://github.com/ApptivaAG/kompakt-stakeholder-interview/blob/master/betrieb.md) | [Betrieb](https://github.com/ApptivaAG/kompakt-stakeholder-interview/blob/master/betrieb.md) |
 | [Support](https://github.com/ApptivaAG/kompakt-stakeholder-interview/blob/master/support.md) | [Support](https://github.com/ApptivaAG/kompakt-stakeholder-interview/blob/master/support.md) |
 
-###### [Apptiva AG](www.apptiva.ch) - 2016
+###### [Apptiva AG](http://www.apptiva.ch) - 2016

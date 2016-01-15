@@ -1,6 +1,6 @@
-Fragen für ein Stakeholder-Interview mit dem Zahler oder Initiator.
+Fragen für ein Stakeholder-Interview mit dem Zahler oder Initiant.
 
-# Zahler / Initiator 
+# Zahler / Initiant
 
 Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt 
 <br /> 

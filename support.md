@@ -72,7 +72,7 @@ Welches sind heute die häufigsten Anfragen im Bezug auf die Lösung?
 <br />
 <br />
 ---
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>≤
 Welches ist heute die grösste Herausforderung im Bezug auf die Lösung?
 <br /> 
 <br /> 

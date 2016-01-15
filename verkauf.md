@@ -1,6 +1,6 @@
 Fragen für ein Stakeholder-Interview mit einem Verkäufer.
 
-# Verkäufer 
+# Verkauf 
 
 Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt 
 <br /> 

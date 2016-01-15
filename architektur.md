@@ -1,6 +1,6 @@
 Fragen für ein Stakeholder-Interview mit einem Architekten.
 
-#Architekten 
+#Architektur 
 
 Name, Alter, Ausbildung, Funktion, Abteilung, Erfahrung, Rolle im Projekt 
 <br /> 

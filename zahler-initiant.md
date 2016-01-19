@@ -23,8 +23,7 @@
 <br />
 <br />
 
-##### Wenn Sie einen Zauberstab hätten und damit tun könnten, was Sie heute nicht können, was wäre das? 
-Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist. 
+##### Wenn Sie einen Zauberstab hätten und damit tun könnten, was Sie heute nicht können, was wäre das? Machen Sie sich keine Sorgen, ob diese tatsächlich möglich ist. 
 <br /> 
 <br /> 
 <br />
